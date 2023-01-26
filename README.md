@@ -1,12 +1,12 @@
 
 
-# 📖 Microverse Portfolio
+# 📖 Microverse Portfolio With Bootstrap
 
 
 
-**Microverse Portfolio**: My official portfolio
+**Microverse Bootstrap Portfolio**: My official portfolio
 
-## 🛠 Built With HTML and CSS
+## 🛠 Built With HTML and Bootstrap
 
 ### Tech Stack
 
@@ -20,14 +20,14 @@
 
   **Styling**
 
-  [CSS](https://web.dev/learn/css/)
+  [Bootstrap](https://getbootstrap.com/)
 
 
 
 ## 🚀 Live Demo
 
 
-- [Live Demo Link](https://calebchris000.github.io/Microverse-Potfolio-Project/)
+- [Live Demo Link](https://calebchris000.github.io/Microverse-Bootstrap-Project/)
 
 
 
