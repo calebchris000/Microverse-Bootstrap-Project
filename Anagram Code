@@ -1,0 +1,19 @@
+//Changing the letters to lowercase
+    str1 = str1.toLowerCase();
+    str2 = str2.toLowerCase();
+
+    //Remove symbols and numbers, leaving
+    //only letters
+
+    let regex = /[a-z]/g; //Regular Expression
+
+    //Matches only characters from a-z on str1 and str2
+    str1 = str1.match(regex).join('');
+    str2 = str2.match(regex).join('');
+
+    //Sorts the characters in an ascending order
+    str1 = str1.split('').sort().join('');
+    str2 = str2.split('').sort().join('');
+
+    //Checks if they match
+    return str1 === str2;
